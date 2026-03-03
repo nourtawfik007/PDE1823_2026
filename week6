@@ -1,2 +1,3 @@
-Mkdir week6
-Cd week6
+git remote add origin https://github.com/nourtawfik007/PDE1823_2026
+git remote-v
+git push -u origin week6
